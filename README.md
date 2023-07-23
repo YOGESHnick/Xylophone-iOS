@@ -33,6 +33,3 @@ class ViewController: UIViewController {
 
 
 >This is the main part used to play sounds !
-
-![End Banner](Documentation/readme-end-banner.png)
-
