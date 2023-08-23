@@ -34,3 +34,6 @@ class ViewController: UIViewController {
 
 >This is the main part used to play sounds !
 >Get it to play it now !
+
+>2033
+>NickyZander
